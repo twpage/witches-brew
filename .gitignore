@@ -1,3 +1,10 @@
+.vscode/*
+tsconfig.json
+bloombergfiller.html
+lib/postal.js
+lib/rot.min.js
+lib/underscore-min.js
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
